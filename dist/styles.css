@@ -49,6 +49,13 @@ nav a {
 section h2 {
   color: var(--secondary-color);
 }
+.footer h4 {
+  font-weight: 500;
+  color: var(--secondary-color);
+}
+.footer span {
+  color: var(--primary-color);
+}
 /**
  * Render the `main` element consistently in IE.
  */
